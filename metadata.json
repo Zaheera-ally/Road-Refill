@@ -1,0 +1,6 @@
+{
+  "name": "Road Refill",
+  "description": "Real-time location, distance tracking, fuel depletion simulation, and petrol station search with Google Places.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
